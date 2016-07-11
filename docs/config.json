@@ -1,0 +1,27 @@
+{
+    "title": "JFLAP Documentation",
+    "tagline": "JFLAP in OpenDSA Summer 2016 Development",
+    "author": "Bill Yu",
+    "ignore": {
+            "files": ["Work_In_Progress.md"],
+            "folders": ["99_Not_Ready"]
+    },
+    "live": {
+        "inherit_index": true,
+        "clean_urls": true
+    },
+    "html": {
+        "theme": "daux-blue",
+        "breadcrumbs": true,
+        "breadcrumb_separator": "Chevrons",
+        "toggle_code": true,
+        "date_modified": true,
+        "float": true,
+
+        "links": {
+						"Author Homepage": "http://billyu.me",
+            "GitHub Repo": "https://github.com/OpenDSA/OpenDSA",
+            "Made by Todaymade": "http://todaymade.com"
+        }
+    }
+}

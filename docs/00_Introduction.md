@@ -1,0 +1,3 @@
+This summer I have been working on integrating JFLAP to [OpenDSA](http://algoviz.org/OpenDSA) project. OpenDSA is an open source project aiming to provide online textbooks for classes all over the world. Previous student developers in the last several years, including Sung-hoon Kim and Martin Tamayo, have already built some foundations for JFLAP to go online. The third party libraries that this project is using include [JSAV](http://jsav.io), [RaphaelJS](https://github.com/DmitryBaranovskiy/raphael) and [jQuery](https://jquery.com/).
+
+Since Sung-hoon and Martin have very well documented most of the functionalities of the project, in this documentation I will be focusing on discussing the functionalities that I added and the code structures.
