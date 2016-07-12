@@ -19,7 +19,7 @@
         "float": true,
 
         "links": {
-						"Author Homepage": "http://billyu.me",
+            "Author Homepage": "http://billyu.me",
             "GitHub Repo": "https://github.com/OpenDSA/OpenDSA",
             "Made by Todaymade": "http://todaymade.com"
         }
