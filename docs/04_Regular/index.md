@@ -1,1 +1,5 @@
-to be continued
+In this project, regular expression is covered this summer. Two main features are implemented: Finite Automaton -> Regular Expression and Regular Expression -> Finite Automaton. For the former, there is no stand-alone file, rather the feature is triggered by a button in `FAEditor`: "toRE". The conversion from FA to RE will happen on the page itself. For the latter, `/ui/REtoFA.html` prompts the user to input a regular expression and then convert it to FA. The user can then choose to output the generated finite autamaton to `FAEditor` to perform further actions. See [Demo](!Demo) for the cycle of operations.
+
+The conversion of FA to RE is coded by me from scratch, so there could be bugs. See documentation of `FAtoREController`. For the conversion of RE to FA, however, I translated the code in JFLAP 7 from Java to JavaScript. These two languages are quite similar so there shouldn't be many big surprises. `REtoFAController` uses a helper class `Discretizer` to process the regular expression.
+
+That's pretty much it. See detail in feature specific sections.
