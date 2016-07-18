@@ -1,6 +1,6 @@
 ## Page Links ##
 
-1. Finite Autamaton
+1. Finite Automaton
 
 - [FA Editor](http://billyu.me/OpenDSA/AV/FLA/billyu/ui/FAEditor.html)
 - [NPDA Editor](http://billyu.me/OpenDSA/AV/FLA/billyu/ui/NPDAEditor.html)
@@ -41,14 +41,14 @@
 
 	[FAEditor](http://billyu.me/wp-content/uploads/2016/06/demo.mp4)
 
-2. Non-deterministic Pushdown Autamaton
+2. Non-deterministic Pushdown Automaton
 
-	Editing and traversing the autamaton
+	Editing and traversing the automaton
 
 	[NPDA](http://billyu.me/wp-content/uploads/2016/07/npdademo.mp4)
 
 3. Turing Machine
 
-	Editing and traversint the Turing Machine
+	Editing and traversing the Turing Machine
 
 	[TMEditor](http://billyu.me/wp-content/uploads/2016/07/tmdemo.mp4)
